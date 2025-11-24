@@ -1,4 +1,4 @@
-# Hey hey!
+# Hey hey, I'm Jady!
 
 <div align="center">
   
@@ -14,7 +14,7 @@ My name is **Jady Pamella**, and I'm a **Senior Technology Manager** with 10+ ye
 
 Proficient in **Agile methodologies**, debugging, and performance optimization, I excel in delivering high-quality solutions through effective collaboration and clear technical communication. Known for proactive problem-solving and meticulous documentation, I drive continuous improvement and successful project outcomes.
 
-Currently based in **Stockholm, Sweden** 🇸🇪, working on climate tech solutions and leading high-performance engineering teams.
+Currently based in **Stockholm, Sweden**, working on climate tech solutions and leading high-performance engineering teams.
 
 ---
 
@@ -38,7 +38,7 @@ I'm looking to collaborate on building **AI/ML solutions, climate tech platforms
 
 💼 Connect with me on [LinkedIn](https://linkedin.com/in/jadypamella)
 
-🐙 Check out my [GitHub](https://github.com/jadypamella)
+👀 Check out my [GitHub](https://github.com/jadypamella)
 
 📝 Read my articles on [Medium](https://medium.com/@jadypamella)
 
@@ -72,7 +72,6 @@ I'm looking to collaborate on building **AI/ML solutions, climate tech platforms
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -143,7 +142,7 @@ I'm looking to collaborate on building **AI/ML solutions, climate tech platforms
 
 <div align="center">
   
-### "Built with ❤️ for innovation and sustainability in Stockholm."
+### Built with ❤️ for innovation and sustainability in Stockholm.
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=jadypamella&color=E03859&style=for-the-badge)-->
 
