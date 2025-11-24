@@ -1,4 +1,4 @@
-# Hi there 👋🚀
+# Hey hey!
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 My name is **Jady Pamella**, and I'm a **Senior Technology Manager** with 10+ years of experience in AI, automation, and digital transformation. I'm passionate about building innovative solutions and constantly learning new technologies. I have honed my skills in designing, developing, and deploying scalable AI-powered platforms and web solutions.
 
@@ -18,27 +18,25 @@ Currently based in **Stockholm, Sweden** 🇸🇪, working on climate tech solut
 
 ---
 
-## 🎯 Interests and Experiences
+## Interests and Experiences
 
-🛠️ I'm interested in **Python, TensorFlow, PyTorch, React, TypeScript, JavaScript, Machine Learning, Deep Learning, Computer Vision, NLP**, and both **Mobile and Web development**.
+I'm interested in **Python, TensorFlow, PyTorch, React, TypeScript, JavaScript, Machine Learning, Deep Learning, Computer Vision, NLP**, and both **Mobile and Web development**.
 
-📚 I'm currently pursuing my **Master's in Computer and Systems Science at Stockholm University** (Swedish Institute Scholar).
+I'm currently pursuing my **Master's in Computer and Systems Science at Stockholm University** (Swedish Institute Scholar).
 
-🌱 I'm co-founder of **Tree++**, a climate tech startup focused on volunteer reforestation.
+I'm co-founder of **Tree++**, a climate tech startup focused on volunteer reforestation.
 
-🔒 I specialize in **AI, DevSecOps, Cybersecurity, and IT Governance**.
+I specialize in **AI, DevSecOps, Cybersecurity, and IT Governance**.
 
-💞️ I'm looking to collaborate on building **AI/ML solutions, climate tech platforms, automation tools**, and scalable web applications.
+I'm looking to collaborate on building **AI/ML solutions, climate tech platforms, automation tools**, and scalable web applications.
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-📧 Email me via [hello@jadypamella.com](mailto:hello@jadypamella.com) to contact.
+📧 Email me via [hello@jadypamella.com](mailto:hello@jadypamella.com)
 
 💼 Connect with me on [LinkedIn](https://linkedin.com/in/jadypamella)
-
-💬 Text me on WhatsApp [+46764364451](https://wa.me/46764364451)
 
 🐙 Check out my [GitHub](https://github.com/jadypamella)
 
@@ -46,7 +44,7 @@ Currently based in **Stockholm, Sweden** 🇸🇪, working on climate tech solut
 
 ---
 
-## 💻 Technologies and Languages
+## Technologies and Languages
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -115,21 +113,21 @@ Currently based in **Stockholm, Sweden** 🇸🇪, working on climate tech solut
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadypamella&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E03859&icon_color=E03859)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadypamella&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E03859&icon_color=E03859)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadypamella&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E03859)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadypamella&theme=radical&hide_border=true&background=0D1117&stroke=E03859&ring=E03859&fire=E03859&currStreakLabel=E03859)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadypamella&theme=radical&hide_border=true&background=0D1117&stroke=E03859&ring=E03859&fire=E03859&currStreakLabel=E03859)-->
 
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## Let's work together!
 
 <div align="center">
 
@@ -145,8 +143,8 @@ Currently based in **Stockholm, Sweden** 🇸🇪, working on climate tech solut
 
 <div align="center">
   
-### 💡 "Technology as a force for meaningful change"
+### "Built with ❤️ for innovation and sustainability in Stockholm."
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadypamella&color=E03859&style=for-the-badge)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=jadypamella&color=E03859&style=for-the-badge)-->
 
 </div>
