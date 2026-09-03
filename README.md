@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E03859&center=true&vCenter=true&width=700&lines=AI+Engineer+with+Focus+on+AI+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E03859&center=true&vCenter=true&width=700&lines=AI+Engineer+with+Focus+on+AI+Safety;PhD+in+Digital+Twins+%40+Aarhus+University;I+build+trustworthy+production+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ## About Me
 
-My name is **Jady Pamella**. I am an **AI engineer** building production AI systems across LLM platforms, computer vision, evals, and regulated environments, with a focus on AI safety. I came in with twelve years of production engineering across regulated banking, climate tech, and AI products.
+My name is **Jady Pamella**. I am an **AI engineer** building production AI systems across LLM platforms, computer vision, evals, and regulated environments, with a focus on AI safety. I came in with twelve years of production engineering across regulated banking, climate tech, and AI products. I am now a PhD Researcher at Aarhus University, working on trustworthy digital twins for critical infrastructure such as water and cooling systems.
 
-I spent eight of those years as **IT Manager at Bank of Brasilia** under direct Central Bank of Brazil audit, where I rebuilt the DevSecOps release pipeline with zero findings on every compliance audit and a 60 percent deployment-time cut. That discipline is now anchored on my 2025 paper in **[Elsevier Computers and Security](https://doi.org/10.1016/j.cose.2025.104584)** (CIS-Controls-aligned governance for the Brazilian judiciary) and on the AI engineering work I ship today.
+I spent eight of those years as **IT Manager at Bank of Brasilia** in a regulated banking environment, where I rebuilt the DevSecOps release pipeline with zero findings on every compliance audit and a 60 percent deployment-time cut. That discipline is now anchored on my 2025 paper in **[Elsevier Computers and Security](https://doi.org/10.1016/j.cose.2025.104584)** (CIS-Controls-aligned governance for the Brazilian judiciary) and on the AI engineering work I ship today.
 
-Based in **Stockholm, Sweden**, open to sponsored AI engineering roles in Sweden, EU, or UK, across applied AI, LLM products, computer vision, ML platforms, evals, and safety-adjacent work.
+Based in **Aarhus, Denmark**. I build production AI with a focus on AI safety, and I am open to collaboration on applied AI, LLM products, ML platforms, evals, and AI safety work.
 
 ---
 
@@ -24,7 +24,7 @@ I am building **[watch-the-watchers](https://github.com/jadypamella/watch-the-wa
 
 I am in the **BlueDot Impact Technical AI Safety** cohort (2026), the **EA Sweden Fellowship** (2026), and the **AGI Strategy** course (2026).
 
-I founded **[SoiQet](http://soiqet.com/)**, a multi-tenant LLM platform on Azure with in-house RAG, structured outputs, Stripe billing, Supabase row-level security for tenant isolation, and OAuth across six social networks.
+I founded **[SoiQet](http://soiqet.com/)**, an AI-powered social media platform for creators, brands, and teams, built as a multi-tenant LLM platform on Azure with in-house RAG, structured outputs, Stripe billing, Supabase row-level security for tenant isolation, and OAuth across six social networks.
 
 I just finished my **Master's in Computer and Systems Sciences (AI and IoT) at Stockholm University** as a Swedish Institute Scholar, with my thesis at **Deep Forestry** on real-time LiDAR perception for autonomous below-canopy drone landing (F1 0.926 at 53 ms per frame on Jetson Orin NX, a 29x latency cut).
 
